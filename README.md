@@ -19,16 +19,16 @@
 
 Задание 2. Memcached
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/Redis-memcached/blob/main/%C2%A0img/memcached.png)
 
 Задание 3. Удаление по TTL в Memcached
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/Redis-memcached/blob/main/%C2%A0img/TTL.png)
 
 Задание 4. Запись данных в Redis
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/Redis-memcached/blob/main/%C2%A0img/Redis.png)
 
 Задание 5. Работа с числами
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/Redis-memcached/blob/main/%C2%A0img/key5.png)
